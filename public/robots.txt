@@ -1,0 +1,7 @@
+# https://www.robotstxt.org/robotstxt.html
+User-agent: *
+Disallow:
+
+#10 11:39 / 19:18
+#13 9:00 / 17:30
+#15 10:05 / 10:15
